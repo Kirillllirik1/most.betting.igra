@@ -1,4 +1,4 @@
 {
   "check": "https://mobiletmaateam.site/3j2h7fqC",
-  "loadValue": "url"
+  "loadValue": "https://onlinegamesslot.me/g1JvpDkF"
 }
